@@ -52,7 +52,7 @@ body {
 #profile {
   width: 24vw;
   padding: 4vh 3vw;
-  height: 100vh;
+  height: 112vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -62,7 +62,7 @@ body {
   background-repeat: no-repeat;
   position: fixed;
   color: #fff !important;
-  overflow: scroll;
+  overflow: auto;
 }
 
 #display {
