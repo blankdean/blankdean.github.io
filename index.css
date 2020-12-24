@@ -52,7 +52,6 @@ body {
 #profile {
   width: 24vw;
   padding: 4vh 3vw;
-  padding-top: 1em;
   height: 92vh;
   display: flex;
   flex-direction: column;
