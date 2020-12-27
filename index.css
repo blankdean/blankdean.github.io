@@ -52,7 +52,7 @@ body {
 #profile {
   width: 24vw;
   padding: 4vh 3vw;
-  height: 92vh;
+  height: 92vh !important;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -258,6 +258,13 @@ body {
   font-size: 18px;
   font-family: "Questrial", sans-serif;
 }
+
+/* #links {
+  margin:0px;
+  auto;
+  text-align:left;
+  display: inline-block;
+} */
 
 #about a,
 #username a {
