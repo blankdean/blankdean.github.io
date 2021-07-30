@@ -1,4 +1,4 @@
-# blankdean.github.io
+# Dean Blank
 Personal Website
 
 ## About
