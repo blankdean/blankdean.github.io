@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Dean Blank
-description: Senior Software Engineer
+description: Software Engineer
 ---
 
 ## About
