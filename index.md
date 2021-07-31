@@ -20,6 +20,7 @@ Hi, I'm Dean 😁. I'm a systems software engineer specializing in cloud infrast
 * HTML
 * CSS
 * YAML
+* SQL
 
 ### Infrastructure Software & Tools
 
@@ -29,12 +30,15 @@ Hi, I'm Dean 😁. I'm a systems software engineer specializing in cloud infrast
 * Docker
 * Jenkins
 * Git
+* AWS
 
 ### Web Development Software & Tools
 
 * ReactJS
 * Flask
 * Django
+* MYSQL
+* MongoDB
 
 ### Theory
 * Operating Systems
