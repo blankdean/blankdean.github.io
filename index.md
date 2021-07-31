@@ -5,7 +5,7 @@ description: Cloud Software Engineer
 ---
 
 ## About
-Hi, I'm Dean 😁. I'm a systems software engineer specializing in cloud infrastructure development. I also have professional experience in web development. Check out my skills below!
+Hi, I'm Dean 😁. I'm a systems software engineer specializing in cloud infrastructure automation. I also have professional experience in web development. Check out my skills below!
 
 ## Skills
 
