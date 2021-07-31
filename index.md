@@ -5,7 +5,7 @@ description: Senior Software Engineer
 ---
 
 ## About
-Hi, I'm Dean. I am a senior systems software engineer. I have professional experience in cloud infrastructure development and web development.
+Hi, I'm Dean 😁. I'm a systems software engineer specializing in cloud infrastructure development. I also have professional experience in web development. Check out my skills below!
 
 ## Skills
 
@@ -28,6 +28,7 @@ Hi, I'm Dean. I am a senior systems software engineer. I have professional exper
 * Kubernetes
 * Docker
 * Jenkins
+* Git
 
 ### Web Development Software & Tools
 
