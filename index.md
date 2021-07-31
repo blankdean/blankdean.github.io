@@ -9,10 +9,35 @@ Hi, I'm Dean. I am a senior systems software engineer. I have professional exper
 
 ## Skills
 
-![](/images/python_logo)  |  ![](/images/c++_logo) | ![](/images/javascript_logo) 
-
 ### Programming Languages
 
-### Software & Tools
+* Python
+* C/C++
+* Javascript
+
+### Other Languages
+
+* HTML
+* CSS
+* YAML
+
+### Infrastructure Software & Tools
+
+* Ansible
+* Hashicorp Suite
+* Kubernetes
+* Docker
+* Jenkins
+
+### Web Development Software & Tools
+
+* ReactJS
+* Flask
+* Django
 
 ### Theory
+* Operating Systems
+* Networking
+* Database Design
+* Computer Architecture
+* Agile Development
