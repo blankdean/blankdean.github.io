@@ -37,8 +37,6 @@ Hi, I'm Dean 😁. I'm a systems software engineer specializing in cloud infrast
 
 * ReactJS
 * Flask
-* HTML
-* CSS
 * MYSQL
 * MongoDB
 
