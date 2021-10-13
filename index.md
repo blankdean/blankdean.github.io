@@ -33,15 +33,21 @@ Hi, I'm Dean 😁. I'm a systems software engineer specializing in cloud infrast
 * Git
 * AWS
 
-### Web/Mobile Development Software & Tools
+### Web Development
 
 * ReactJS
 * Flask
+* HTML
+* CSS
 * MYSQL
 * MongoDB
+
+### Mobile Development
+
 * Xcode
+* Swift
+* UIKit
 * SwiftUI
-* Firebase
 
 ### Theory
 * Operating Systems
