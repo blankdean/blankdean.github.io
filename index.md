@@ -1,11 +1,11 @@
 ---
 layout: default
 title:  Dean Blank
-description: Cloud Software Engineer
+description: Senior Software Engineer
 ---
 
 ## About
-Hi, I'm Dean 😁. I'm a systems software engineer specializing in cloud infrastructure automation. I also have professional experience in web and mobile development. Check out my skills below!
+Hi, I'm Dean. I am a Senior Backend Software Engineer. I have professional experience in cloud infrastructure development and Web/API development.
 
 ## Skills
 
@@ -13,15 +13,23 @@ Hi, I'm Dean 😁. I'm a systems software engineer specializing in cloud infrast
 
 * Python
 * C/C++
-* Swift
 * Javascript
 
-### Other Languages
+### Cloud Development
 
-* HTML
-* CSS
-* YAML
-* SQL
+* AWS - (Lambda, S3, SNS, EKS)
+* Azure (API Management, Azure Functions, AKS, SQL, Blob Storage)
+
+### Web Development
+
+* ReactJS
+* NodeJS
+* Angular
+* Flask
+* MYSQL
+* PostgreSQL
+* MongoDB
+
 
 ### Infrastructure Software & Tools
 
@@ -31,26 +39,13 @@ Hi, I'm Dean 😁. I'm a systems software engineer specializing in cloud infrast
 * Docker
 * Jenkins
 * Git
-* AWS
 
-### Web Development
-
-* ReactJS
-* Flask
-* MYSQL
-* MongoDB
-
-### Mobile Development
-
-* Xcode
-* Swift
-* UIKit
-* SwiftUI
 
 ### Theory
+* Cloud Computing
+* Data Structures & Algorithms
 * Operating Systems
 * Networking
 * Database Design
 * Computer Architecture
 * Agile Development
-* Web and Mobile Development
