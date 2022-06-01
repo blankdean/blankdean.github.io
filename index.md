@@ -17,6 +17,7 @@ Hi, I'm Dean.👋🏻 I am a Senior Backend Software Engineer. I have profession
 
 * AWS - (Lambda, S3, SNS, EKS)
 * Azure (API Management, Azure Functions, AKS, SQL, Blob Storage)
+* Databricks (Spark, Pandas, numPy, SciPy, Matplotlib, Seaborn)
 
 ### Web Development
 
