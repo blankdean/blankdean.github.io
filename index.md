@@ -1,11 +1,9 @@
 ---
 layout: default
-title:  Dean Blank
-description: Senior Software Engineer
 ---
 
 ## About
-Hi, I'm Dean. I am a Senior Backend Software Engineer. I have professional experience in cloud infrastructure development and Web/API development.
+Hi, I'm Dean.👋🏻 I am a Senior Backend Software Engineer. I have professional experience in cloud infrastructure development and Web/API development.
 
 ## Skills
 
@@ -38,7 +36,7 @@ Hi, I'm Dean. I am a Senior Backend Software Engineer. I have professional exper
 * Kubernetes
 * Docker
 * Jenkins
-* Git
+* Github
 
 
 ### Theory
