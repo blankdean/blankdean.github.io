@@ -4,7 +4,9 @@ title: Dean Blank
 ---
 
 ## About
-Hi, I'm Dean.👋🏻 I am a Senior Backend Software Engineer. I have professional experience in cloud infrastructure development and Web/API development.
+* Hi, I'm Dean.👋🏻 
+* I am a Senior Backend Software Engineer. 
+* I have professional experience in cloud and Web/API development.
 
 ## Skills
 
@@ -16,7 +18,7 @@ Hi, I'm Dean.👋🏻 I am a Senior Backend Software Engineer. I have profession
 
 ### Cloud Development
 
-* AWS - (Lambda, S3, SNS, EKS)
+* AWS (Lambda, S3, SNS, EKS)
 * Azure (API Management, Azure Functions, AKS, SQL, Blob Storage)
 * Databricks (Spark, Pandas, numPy, SciPy, Matplotlib, Seaborn)
 
